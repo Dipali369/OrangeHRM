@@ -5,7 +5,7 @@ class GetLog():
     @staticmethod
     def getLogger():
         logger = logging.getLogger()
-        configFilePath ="C:\\Workspace\\Python_Workspace\\com.orangehrmlive.management.hr.ui_automation_selframework\\config_files\\config.ini"
+        configFilePath ="C:\\OrangeHRM\\OrangeHarsh\\config_files\\config.ini"
         filePath = cf.getValueFromConfig(configFilePath,"directory_path","log_filepath")
         fhandler = logging.FileHandler(filename=filePath, mode='a')
         formatter = logging.Formatter('%(asctime)s:%(levelname)s:%(message)s')

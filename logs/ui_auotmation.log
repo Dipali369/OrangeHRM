@@ -15,3 +15,9 @@
 2023-09-09 14:09:26,716:INFO:====== Inside setPassword Method ======
 2023-09-09 14:09:26,846:INFO:=========== setPassword Executed successfully =======
 2023-09-09 14:09:26,903:INFO:Login
+2023-09-09 11:59:03,371:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-09-09 11:59:03,373:INFO:=== Inside method setUsername ===
+2023-09-09 11:59:03,834:INFO:=== Method setUsername Ends ===
+2023-09-09 11:59:03,835:INFO:====== Inside setPassword Method ======
+2023-09-09 11:59:04,120:INFO:=========== setPassword Executed successfully =======
+2023-09-09 11:59:04,230:INFO:Login
