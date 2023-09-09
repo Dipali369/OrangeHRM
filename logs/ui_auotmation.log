@@ -1,0 +1,17 @@
+2023-09-09 14:05:59,601:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-09-09 14:05:59,601:INFO:=== Inside method setUsername ===
+2023-09-09 14:05:59,726:INFO:=== Method setUsername Ends ===
+2023-09-09 14:05:59,726:INFO:====== Inside setPassword Method ======
+2023-09-09 14:05:59,888:INFO:=========== setPassword Executed successfully =======
+2023-09-09 14:07:10,554:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-09-09 14:07:10,554:INFO:=== Inside method setUsername ===
+2023-09-09 14:07:10,690:INFO:=== Method setUsername Ends ===
+2023-09-09 14:07:10,691:INFO:====== Inside setPassword Method ======
+2023-09-09 14:07:10,828:INFO:=========== setPassword Executed successfully =======
+2023-09-09 14:07:10,869:INFO:Login
+2023-09-09 14:09:26,576:CRITICAL:============ testcase test_LoginWithValidCredentials start ==========
+2023-09-09 14:09:26,576:INFO:=== Inside method setUsername ===
+2023-09-09 14:09:26,708:INFO:=== Method setUsername Ends ===
+2023-09-09 14:09:26,716:INFO:====== Inside setPassword Method ======
+2023-09-09 14:09:26,846:INFO:=========== setPassword Executed successfully =======
+2023-09-09 14:09:26,903:INFO:Login
